@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pssrd\\source\\repos\\Project\\Transportation.csproj": {}
+    "C:\\Users\\pssrd\\source\\repos\\Nus1112.github.io\\Transportation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pssrd\\source\\repos\\Project\\Transportation.csproj": {
+    "C:\\Users\\pssrd\\source\\repos\\Nus1112.github.io\\Transportation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pssrd\\source\\repos\\Project\\Transportation.csproj",
+        "projectUniqueName": "C:\\Users\\pssrd\\source\\repos\\Nus1112.github.io\\Transportation.csproj",
         "projectName": "Transportation",
-        "projectPath": "C:\\Users\\pssrd\\source\\repos\\Project\\Transportation.csproj",
+        "projectPath": "C:\\Users\\pssrd\\source\\repos\\Nus1112.github.io\\Transportation.csproj",
         "packagesPath": "C:\\Users\\pssrd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pssrd\\source\\repos\\Project\\obj\\",
+        "outputPath": "C:\\Users\\pssrd\\source\\repos\\Nus1112.github.io\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
