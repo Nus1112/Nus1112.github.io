@@ -32,7 +32,7 @@ namespace Transportation.Controllers
             _configuration = configuration;
         }
 
-        public IActionResult Vertical()
+        public IActionResult Index()
         {
             return View();
         }
